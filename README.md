@@ -1,10 +1,10 @@
 # 🛒 Add-To-Cart App
 
-A clean, interactive, and beginner-friendly shopping cart application built using React.
-Designed to demonstrate real-time cart updates, item management, and smooth UI interactions.
+ ## A clean, interactive, and beginner-friendly shopping cart application built using React.
+ ## Designed to demonstrate real-time cart updates, item management, and smooth UI interactions.
 ---
 
-🌐 **Live Demo:**  👉 [View Quiz App](https://add-to-cart-rouge-psi.vercel.app/) 
+🌐 **Live Demo:**  👉 [Add to cart App](https://add-to-cart-rouge-psi.vercel.app/) 
 ---
 
 ## ✨ Features
