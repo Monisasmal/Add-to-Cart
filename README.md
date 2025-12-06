@@ -1,8 +1,17 @@
-# React + Vite
+# 🛒 Add-To-Cart App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A clean, interactive, and beginner-friendly shopping cart application built using React.
+Designed to demonstrate real-time cart updates, item management, and smooth UI interactions.
 
-Currently, two official plugins are available:
+🌐 **Live Demo:**  👉 [View Quiz App](https://add-to-cart-rouge-psi.vercel.app/) 
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Features
+🛍️ Add items to cart instantly
+🧮 Automatic total price calculation
+🗂️ Increase / decrease quantity
+❌ Remove items from cart
+🧹 Clear entire cart
+📱 Fully responsive design
+🎨 Clean and minimal UI
+⚡ Fast, lightweight, and beginner-friendly
+🚀 Hosted on Vercel
