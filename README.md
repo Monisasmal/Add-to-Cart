@@ -46,9 +46,8 @@
 <img width="1360" height="424" alt="image" src="https://github.com/user-attachments/assets/cb471be8-ac5a-4b97-a576-edc20abfef61" />
 
 ---
-**🙋‍♀️ Author**
 
-## Manaswini Sasmal
+## 🙋‍♀️ Author - Manaswini Sasmal
 
 👩‍💻 Frontend Developer | React Enthusiast
 
